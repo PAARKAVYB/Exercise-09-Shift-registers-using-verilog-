@@ -2,7 +2,7 @@
 
 ## AIM:
 
-To implement PISO , PIPO,PISO  using verilog and validating their functionality using their functional tables.
+To implement  SIPO , PISO, PISO  using verilog and validating their functionality using their functional tables.
 
 ## HARDWARE REQUIRED:
 
