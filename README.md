@@ -59,7 +59,7 @@ A Parallel in Parallel out (PIPO) shift register is used as a temporary storage 
 ### STEP 3:
 3.Assign logic for input to give output at positive edge.
 ### STEP 4:
-4.Perform opertaions and produce rtl circuit.
+4.Perform operations and produce RTL circuit.
 ### STEP 5:
 5.End module
 
